@@ -1,12 +1,13 @@
 # Knee-Osteoarthritis-using-deep-learning-
 # Knee-Osteoarthritis-using-deep-learning-
-## Objective: This project aims to develop a deep learning model for accurate KOA diagnosis using X-ray images. We will evaluate the model's performance, explore its advantages and limitations, and investigate future directions for improving KOA diagnosis.
+## Objective: 
+This project aims to develop a deep learning model for accurate KOA diagnosis using X-ray images. We will evaluate the model's performance, explore its advantages and limitations, and investigate future directions for improving KOA diagnosis.
 
 ## Introduction : 
-### Knee Osteoarthritis (KOA) is a debilitating joint disease. Early diagnosis is crucial for effective management. This project explores the use of Deep Learning (DL) to improve KOA diagnosis using X-ray images. DL models can accurately identify KOA, leading to earlier detection and better patient outcomes.
+Knee Osteoarthritis (KOA) is a debilitating joint disease. Early diagnosis is crucial for effective management. This project explores the use of Deep Learning (DL) to improve KOA diagnosis using X-ray images. DL models can accurately identify KOA, leading to earlier detection and better patient outcomes.
 
 ## Problem Statement : 
-### Knee Osteoarthritis (KOA) is a debilitating disease with limited early diagnosis options. Traditional methods are subjective and time-consuming. This project aims to develop a DL-based system to automate KOA diagnosis using X-ray images. The goal is to improve accuracy, efficiency, and early detection of KOA.
+Knee Osteoarthritis (KOA) is a debilitating disease with limited early diagnosis options. Traditional methods are subjective and time-consuming. This project aims to develop a DL-based system to automate KOA diagnosis using X-ray images. The goal is to improve accuracy, efficiency, and early detection of KOA.
 
 ### Software Used :
 -  Google Collab 
